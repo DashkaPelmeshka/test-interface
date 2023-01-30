@@ -136,9 +136,3 @@
 <img src="./images/corrected-dialog.jpg" alt="Диалоговое окно" width="450"/>
 
 *Диалоговое окно после редактирования*
-
-<style>
-tr {
-  vertical-align: top;
-}
-</style>
